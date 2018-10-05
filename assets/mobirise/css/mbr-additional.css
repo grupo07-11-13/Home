@@ -2178,7 +2178,7 @@ body {
 .cid-r5b9EyH665 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background40.jpg");
+  background-image: url("../../../assets/images/background41.jpg");
 }
 @media (min-width: 992px) {
   .cid-r5b9EyH665 .mbr-figure {
@@ -2856,57 +2856,16 @@ body {
 }
 .cid-r5zNmzaMts {
   padding-top: 135px;
-  padding-bottom: 30px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/portada-2000x1485.jpg");
 }
 .cid-r5zNmzaMts H1 {
   color: #ffffff;
 }
-.cid-r5zSSAerya {
-  padding-top: 75px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/portada-6-2000x1485.jpg");
-}
-.cid-r5zSSAerya .nav-tabs .nav-item.open .nav-link:focus,
-.cid-r5zSSAerya .nav-tabs .nav-link.active:focus {
-  outline: none;
-}
-.cid-r5zSSAerya .nav-tabs {
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  border-bottom: none;
-}
-.cid-r5zSSAerya .nav-tabs .nav-item {
-  padding: .5rem;
-}
-.cid-r5zSSAerya .nav-tabs .nav-link {
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 500;
-  border: 1px solid #ffffff;
-  transition: all .5s;
-}
-.cid-r5zSSAerya .nav-tabs .nav-link:hover {
-  cursor: pointer;
-  background-color: #149dcc;
-}
-.cid-r5zSSAerya .nav-tabs .nav-link.active {
-  font-weight: 500;
-  color: #ffffff;
-  font-style: normal;
-  background-color: #149dcc;
-  border-color: #149dcc;
-}
-.cid-r5zSSAerya .nav-tabs .nav-link.active:hover {
-  background-color: #149dcc;
-}
-.cid-r5zSSAerya p {
-  color: #ffffff;
-}
-.cid-r5zSSAerya .mbr-text {
-  text-align: center;
+.cid-r5A1tZucty {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f7c530;
 }
 .cid-r5zWX681hQ {
   background-image: url("../../../assets/images/anemiaportada-1024x768.jpg");
